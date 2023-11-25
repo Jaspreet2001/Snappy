@@ -7,4 +7,4 @@ Register Page
 Processing after register page
 ![design](https://github.com/Jaspreet2001/Snappy/assets/78601370/1e252b0d-dc06-488d-938c-3082f9e90bf1)
 Choosing the Avatar for chat after registration
-
+![Avatar](https://github.com/Jaspreet2001/Snappy/assets/78601370/0d6f0ef6-bc71-4f2b-a475-82b57e442c7e)
