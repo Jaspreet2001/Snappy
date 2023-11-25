@@ -3,20 +3,21 @@ Snappy - Realtime Chat Application
 Snappy is an intuitive and responsive real-time chat application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It leverages the power of Socket.IO for enabling seamless and instant communication between users. Styled with the elegance of styled-components, Snappy provides a visually appealing and user-friendly interface for chatting and connecting with others.
 
 Features:
-User Registration/Login:
 
+User Registration/Login:
 Users can register with a unique username and password to access the chat application.
 Secure login functionality ensures authenticated access for registered users.
+
 Avatar Selection:
-
 Upon registration, users can choose their preferred avatars to personalize their chat experience.
+
 Welcome Page:
-
 Users are greeted with a welcoming interface where they can select individuals or avatars they wish to engage in conversations with.
-Real-time Messaging:
 
+Real-time Messaging:
 Seamlessly engage in real-time conversations with selected individuals or avatars.
 Instant message delivery facilitated by Socket.IO ensures a smooth communication experience.
+
 
 Screenshots:
 
