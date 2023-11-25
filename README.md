@@ -2,3 +2,5 @@
 this is mern stack app
 Login Page
 ![snappy_login](https://github.com/Jaspreet2001/Snappy/assets/78601370/ebe13179-de64-4810-a75b-2d268f3985c9)
+Register Page
+![register page](https://github.com/Jaspreet2001/Snappy/assets/78601370/f6a1b2d0-8d59-4579-bff3-e5623c5224e7)
