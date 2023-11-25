@@ -68,9 +68,11 @@ MongoDB for database management.
 Socket.IO for enabling real-time communication.
 
 How to Run:
+
 Clone the repository.
 Navigate to the project directory.
 Install dependencies using npm install.
+
 Run the server using npm start or the preferred method for running both the frontend and backend.
 Feel free to contribute and enhance Snappy to make it an even more immersive and efficient chat application!
 
